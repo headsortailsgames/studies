@@ -28,6 +28,16 @@
     - [Intro at GDC](https://www.youtube.com/watch?v=NsWNRLD-FEI)
     - [Unity Tutorials - Live Session](https://www.youtube.com/watch?v=V5XFrIhLpGQ)
     - [Brackeys - Quick Intro](https://www.youtube.com/watch?v=Ar9eIn4z6XE)
+    
+### Challenges
+
+- Post Processing Stack
+    - Gray Scale Fx
+    - Edge Detection Fx
+- Shader Graph
+    - Screen Shader
+    - Change Properties through C# script
+    - Write your own node
 
 
 ## To Study
