@@ -1,7 +1,7 @@
 # Game Dev Studies
 
 
-## Week 1 - Cinemachine + Timeline +
+## Week 1 - Cinemachine + Timeline
 
 - Cinemachine
     - [Unity Tutorials](https://unity3d.com/learn/tutorials/topics/animation/using-cinemachine-getting-started)
