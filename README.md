@@ -14,15 +14,19 @@
 
 ### Debts
 
-- Cinemachine Mixing Camera
-- Cinemachine Blend List
-- Cinemachine Post-Processing
-- Dynamically changing between virtual cameras
+- Cinemachine
+    - Mixing Camera
+    - Blend List
+    - Post-Processing
+    - Extensions (Confinner, Collider, Follow Zoom)
+    - Noise
+
+## Week 2 - ...
 
 
 ## To Study
 
-- [ ] Cinemachine + Timeline
+- [x] Cinemachine + Timeline
 - [ ] Post Processing Stack v2
 - [ ] Shader graph
 - [ ] Text Mesh Pro
