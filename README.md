@@ -23,12 +23,13 @@
 
 - Post Processing Stack v2
     - [Repository](https://github.com/Unity-Technologies/PostProcessing/tree/v2)
+    - [Brackeys - Quick Intro](https://www.youtube.com/watch?v=Ar9eIn4z6XE)
 - Shader Graph
     - [Repository](https://github.com/Unity-Technologies/ShaderGraph)
     - [Intro at GDC](https://www.youtube.com/watch?v=NsWNRLD-FEI)
     - [Unity Tutorials - Live Session](https://www.youtube.com/watch?v=V5XFrIhLpGQ)
-    - [Brackeys - Quick Intro](https://www.youtube.com/watch?v=Ar9eIn4z6XE)
-    
+    - [Brackeys - Description of the v1's Fx](https://www.youtube.com/watch?v=Ar9eIn4z6XE)
+
 ### Challenges
 
 - Post Processing Stack
@@ -50,6 +51,7 @@
 - [ ] Particles (with the standard shader and 2018.1 updates)
 - [ ] Fog
 - [ ] Toon shader, Toon FX
+- [ ] Volumetric Lighting, Area Light, other types of light
 
 
 **Physics**
