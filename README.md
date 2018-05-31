@@ -23,6 +23,7 @@
 
 - Post Processing Stack v2
     - [Repository](https://github.com/Unity-Technologies/PostProcessing/tree/v2)
+    - [Documentation](https://github.com/Unity-Technologies/PostProcessing/wiki/Quick-start)
     - [Brackeys - Quick Intro](https://www.youtube.com/watch?v=Ar9eIn4z6XE)
 - Shader Graph
     - [Repository](https://github.com/Unity-Technologies/ShaderGraph)
