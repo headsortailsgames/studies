@@ -28,7 +28,7 @@
     - [Repository](https://github.com/Unity-Technologies/ShaderGraph)
     - [Intro at GDC](https://www.youtube.com/watch?v=NsWNRLD-FEI)
     - [Unity Tutorials - Live Session](https://www.youtube.com/watch?v=V5XFrIhLpGQ)
-    - [Brackeys - Description of the v1's Fx](https://www.youtube.com/watch?v=Ar9eIn4z6XE)
+    - [Brackeys - Description of the v1's Fx](https://www.youtube.com/watch?v=a0OQvWAPeuo)
 
 ### Challenges
 
