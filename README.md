@@ -37,7 +37,6 @@
     - Gray Scale Fx
     - Edge Detection Fx
 - Shader Graph
-    - Screen Shader
     - Change Properties through C# script
     - Write your own node
 
@@ -74,7 +73,8 @@
 **Dev Tools**
 - [ ] Pro Builder + Pro Grids
 - [ ] Editor Scripting
-- [ ] LinQ
+- [ ] Editor Graph API
+- [ ] LinQ + .NET 4.5
 - [ ] VIM
 
 **Performance**
