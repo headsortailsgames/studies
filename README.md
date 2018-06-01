@@ -55,8 +55,8 @@
 
 
 **Physics**
-- [ ] Physics (Joints, Ragdoll)
-- [ ] Cloth + Deformation Mesh
+- [ ] Physics (Joints, Ragdoll, ...)
+- [ ] Cloth
 
 **Animation**
 - [ ] Root Motion
@@ -89,5 +89,6 @@
 - [ ] Multiplayer (+ Photon, Unet)
 - [ ] Machine Learning - Unity ML Agents
 - [ ] Tessalation
+- [ ] Deformation Mesh
 - [ ] VR
 - [ ] AR
