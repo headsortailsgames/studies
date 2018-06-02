@@ -29,6 +29,7 @@
     - [Repository](https://github.com/Unity-Technologies/ShaderGraph)
     - [Intro at GDC](https://www.youtube.com/watch?v=NsWNRLD-FEI)
     - [Brackeys - Quick Intro](https://www.youtube.com/watch?v=Ar9eIn4z6XE)
+    - [Examples](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary)
 
 ### Challenges
 
