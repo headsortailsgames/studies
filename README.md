@@ -15,7 +15,6 @@
 - Cinemachine
     - Mixing Camera
     - Blend List
-    - Post-Processing
     - Extensions (Confinner, Collider, Follow Zoom)
     - Noise
 
@@ -40,13 +39,21 @@
     - Change Properties through C# script
     - Write your own node
 
+## Week 3 - Physics
+- Colliders
+- Joints
+- Ragdoll
+- Cloth
+- Raycast
+- Settings
+- Performance
 
 ## To Study
 
 **Visual**
 - [x] Cinemachine + Timeline
-- [ ] Post Processing Stack v2
-- [ ] Shader graph
+- [x] Post Processing Stack v2
+- [x] Shader graph
 - [ ] Text Mesh Pro
 - [ ] Particles (with the standard shader and 2018.1 updates)
 - [ ] Fog
