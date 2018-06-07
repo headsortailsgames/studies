@@ -48,6 +48,14 @@
 - Settings
 - Performance
 
+### Challenges
+- Build a pendulum
+- Make a flag
+- Create a magnetic surface
+- Gravity on a small planet
+- Tilting doll
+- Car controlled by impulses and gravity
+
 ## To Study
 
 **Visual**
