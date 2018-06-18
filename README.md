@@ -60,6 +60,8 @@
 - Tilting doll
 - Car controlled by impulses and gravity
 
+## Week 4 - ...
+
 ## To Study
 
 **Visual**
@@ -74,8 +76,8 @@
 
 
 **Physics**
-- [ ] Physics (Joints, Ragdoll, ...)
-- [ ] Cloth
+- [x] Physics (Joints, Ragdoll, ...)
+- [x] Cloth
 
 **Animation**
 - [ ] Root Motion
