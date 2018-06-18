@@ -86,7 +86,7 @@
 - [ ] Moveen
 - [ ] Procedural Animation
 
-**Movemetation**
+**Movementation**
 - [ ] Input system (+ Rewired)
 - [ ] Navmesh
 - [ ] Player Controller
