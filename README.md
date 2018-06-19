@@ -60,7 +60,13 @@
 - Tilting doll
 - Car controlled by impulses and gravity
 
-## Week 4 - ...
+## Week 4 - Movement
+- Input system (+ Rewired)
+- Navmesh
+- Player Controller
+
+### Challenges
+- Slippery/Ice floor movement
 
 ## To Study
 
@@ -86,7 +92,7 @@
 - [ ] Moveen
 - [ ] Procedural Animation
 
-**Movementation**
+**Movements**
 - [ ] Input system (+ Rewired)
 - [ ] Navmesh
 - [ ] Player Controller
