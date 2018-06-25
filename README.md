@@ -60,7 +60,12 @@
 - Tilting doll
 - Car controlled by impulses and gravity
 
-## Week 4 - Movement
+
+## Week 4 - AR (Vuforia)
+- AR
+    - [Target Optmization](https://library.vuforia.com/articles/Solution/Optimizing-Target-Detection-and-Tracking-Stability.html)
+
+## Week ? - Movement
 - Input system (+ Rewired)
 - Navmesh
 - Player Controller
