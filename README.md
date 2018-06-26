@@ -64,6 +64,7 @@
 ## Week 4 - AR (Vuforia)
 - AR
     - [Target Optmization](https://library.vuforia.com/articles/Solution/Optimizing-Target-Detection-and-Tracking-Stability.html)
+    - [Ground Plane Device List](https://library.vuforia.com/articles/Solution/ground-plane-supported-devices.html)
 
 ## Week ? - Movement
 - Input system (+ Rewired)
